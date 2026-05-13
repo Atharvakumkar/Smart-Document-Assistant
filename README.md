@@ -1,4 +1,4 @@
-# Smart Document Assistant
+# RAG Based Document Assistant
 
 A privacy-first, fully offline Retrieval-Augmented Generation system that lets you query PDF documents through a natural language CLI. The system loads a PDF, splits it into chunks, embeds those chunks into a local vector store, and answers questions using a locally running LLM — with no API keys, no internet connection, and no data leaving the machine.
 
